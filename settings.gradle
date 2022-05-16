@@ -1,0 +1,2 @@
+rootProject.name = "KerimBaseProject"
+include ':app'
